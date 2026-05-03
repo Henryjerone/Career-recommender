@@ -1,0 +1,801 @@
+Skills,CGPA,Interest,Domain,Internship,Project
+Python ML,7.0,AI Engineer,AI Engineer,Google Intern,Chatbot
+Node JS,6.2,Data Science,Cloud Engineer,Google Intern,ML Model
+React JS,8.2,Web Development,AI Engineer,Amazon Intern,Web App
+HTML CSS,6.1,AI Engineer,Data Science,Microsoft Intern,Dashboard
+HTML CSS,6.5,AI Engineer,Data Science,Microsoft Intern,Chatbot
+Python DL,7.0,Data Science,AI Engineer,Microsoft Intern,Chatbot
+React JS,7.8,AI Engineer,Web Development,Google Intern,Web App
+React JS,7.7,Web Development,Cloud Engineer,Amazon Intern,ML Model
+HTML CSS,6.3,Web Development,Data Science,Amazon Intern,Web App
+Node JS,8.4,Data Science,AI Engineer,Google Intern,Dashboard
+HTML CSS,6.9,Data Science,Cloud Engineer,Microsoft Intern,Chatbot
+Python ML,7.0,Cloud Engineer,Web Development,Google Intern,ML Model
+Python DL,8.9,AI Engineer,Web Development,Amazon Intern,Dashboard
+HTML CSS,6.0,Cloud Engineer,Data Science,Google Intern,Web App
+Python DL,7.2,AI Engineer,Data Science,Google Intern,ML Model
+Python DL,8.6,Cloud Engineer,Cloud Engineer,Amazon Intern,Chatbot
+Python DL,8.4,AI Engineer,AI Engineer,Amazon Intern,Chatbot
+Python DL,8.4,Data Science,Web Development,Amazon Intern,ML Model
+HTML CSS,7.0,Data Science,Cloud Engineer,Microsoft Intern,Web App
+Python DL,8.2,Data Science,Web Development,Google Intern,Dashboard
+Python DL,8.9,Cloud Engineer,AI Engineer,Amazon Intern,ML Model
+Python DL,7.6,Web Development,Web Development,Amazon Intern,Dashboard
+HTML CSS,6.6,Data Science,Data Science,Microsoft Intern,Web App
+Python DL,7.0,Cloud Engineer,Data Science,Google Intern,ML Model
+React JS,7.9,AI Engineer,AI Engineer,Microsoft Intern,ML Model
+Node JS,6.1,AI Engineer,Data Science,Amazon Intern,Chatbot
+React JS,8.1,Cloud Engineer,Cloud Engineer,Google Intern,Chatbot
+Python DL,9.2,Data Science,Cloud Engineer,Microsoft Intern,Web App
+Python ML,7.5,Cloud Engineer,AI Engineer,Google Intern,Dashboard
+Python DL,9.2,Web Development,Data Science,Amazon Intern,Web App
+Python ML,7.5,AI Engineer,Cloud Engineer,Microsoft Intern,Dashboard
+React JS,9.3,Cloud Engineer,AI Engineer,Microsoft Intern,Chatbot
+HTML CSS,6.9,Cloud Engineer,Web Development,Google Intern,Chatbot
+Python DL,9.2,Data Science,Data Science,Google Intern,ML Model
+HTML CSS,9.4,Cloud Engineer,AI Engineer,Amazon Intern,Dashboard
+Node JS,8.0,Web Development,AI Engineer,Google Intern,ML Model
+HTML CSS,7.7,AI Engineer,AI Engineer,Amazon Intern,ML Model
+React JS,8.7,Web Development,Cloud Engineer,Amazon Intern,Dashboard
+HTML CSS,8.8,AI Engineer,AI Engineer,Microsoft Intern,Dashboard
+Python DL,6.6,AI Engineer,Data Science,Microsoft Intern,Web App
+Python DL,9.3,Cloud Engineer,Cloud Engineer,Microsoft Intern,ML Model
+Python DL,6.3,AI Engineer,Cloud Engineer,Google Intern,Chatbot
+Node JS,8.5,Data Science,Web Development,Amazon Intern,Dashboard
+HTML CSS,6.4,Cloud Engineer,Cloud Engineer,Amazon Intern,Chatbot
+Node JS,6.2,Data Science,Data Science,Microsoft Intern,Chatbot
+HTML CSS,6.1,Web Development,Web Development,Microsoft Intern,Dashboard
+Python DL,7.8,AI Engineer,Cloud Engineer,Amazon Intern,Web App
+Python DL,7.9,Web Development,Data Science,Microsoft Intern,ML Model
+Python DL,7.5,Data Science,AI Engineer,Google Intern,ML Model
+React JS,8.7,AI Engineer,AI Engineer,Microsoft Intern,Web App
+Python ML,6.6,Web Development,Cloud Engineer,Google Intern,Chatbot
+HTML CSS,7.8,Web Development,Data Science,Microsoft Intern,ML Model
+Python DL,6.7,Web Development,Data Science,Microsoft Intern,ML Model
+HTML CSS,7.6,Data Science,Data Science,Google Intern,ML Model
+Node JS,6.8,Data Science,Web Development,Microsoft Intern,Chatbot
+HTML CSS,6.9,Data Science,AI Engineer,Amazon Intern,ML Model
+HTML CSS,6.6,Web Development,AI Engineer,Amazon Intern,Chatbot
+Python ML,6.2,AI Engineer,Data Science,Google Intern,Web App
+Python ML,8.9,Web Development,Web Development,Microsoft Intern,ML Model
+React JS,8.7,AI Engineer,Data Science,Amazon Intern,ML Model
+React JS,9.3,Web Development,Cloud Engineer,Microsoft Intern,Dashboard
+HTML CSS,8.2,AI Engineer,AI Engineer,Google Intern,Chatbot
+Node JS,7.6,Web Development,AI Engineer,Microsoft Intern,Dashboard
+React JS,9.2,Cloud Engineer,Cloud Engineer,Google Intern,Chatbot
+Node JS,9.4,AI Engineer,Web Development,Amazon Intern,Dashboard
+HTML CSS,8.8,AI Engineer,Cloud Engineer,Google Intern,Dashboard
+Python ML,8.1,Data Science,Web Development,Google Intern,Web App
+Node JS,8.6,Data Science,Web Development,Amazon Intern,Dashboard
+Python DL,8.7,AI Engineer,AI Engineer,Amazon Intern,Dashboard
+Python DL,7.9,AI Engineer,Data Science,Amazon Intern,Chatbot
+HTML CSS,8.0,Cloud Engineer,Web Development,Amazon Intern,Dashboard
+Node JS,8.8,AI Engineer,Cloud Engineer,Google Intern,Chatbot
+Python ML,6.6,Cloud Engineer,AI Engineer,Microsoft Intern,Chatbot
+Python DL,6.9,AI Engineer,Data Science,Google Intern,Web App
+Node JS,6.2,AI Engineer,Cloud Engineer,Microsoft Intern,ML Model
+Node JS,9.0,AI Engineer,Cloud Engineer,Google Intern,Dashboard
+Python ML,6.7,Web Development,Web Development,Microsoft Intern,Chatbot
+Python DL,8.2,AI Engineer,Data Science,Microsoft Intern,Chatbot
+HTML CSS,7.6,AI Engineer,Data Science,Google Intern,Web App
+React JS,7.2,Web Development,AI Engineer,Amazon Intern,Dashboard
+React JS,8.9,Web Development,Web Development,Google Intern,Chatbot
+Node JS,8.4,Data Science,Data Science,Amazon Intern,Dashboard
+Node JS,7.7,Web Development,Data Science,Microsoft Intern,Chatbot
+Node JS,9.1,Data Science,Web Development,Amazon Intern,Web App
+Python DL,8.2,Data Science,Cloud Engineer,Amazon Intern,ML Model
+Python DL,7.4,Data Science,Cloud Engineer,Amazon Intern,ML Model
+React JS,6.0,AI Engineer,Cloud Engineer,Microsoft Intern,Chatbot
+React JS,8.5,AI Engineer,Web Development,Amazon Intern,Web App
+React JS,7.8,Web Development,AI Engineer,Microsoft Intern,Chatbot
+Python ML,8.3,AI Engineer,Data Science,Amazon Intern,Web App
+Python ML,7.6,Data Science,Data Science,Amazon Intern,Chatbot
+HTML CSS,8.7,Web Development,Data Science,Microsoft Intern,Dashboard
+Python ML,7.3,AI Engineer,Web Development,Microsoft Intern,ML Model
+HTML CSS,9.1,AI Engineer,AI Engineer,Amazon Intern,ML Model
+Python ML,7.3,Web Development,Data Science,Google Intern,Dashboard
+Node JS,8.5,Web Development,Data Science,Google Intern,ML Model
+React JS,8.5,Web Development,Data Science,Google Intern,ML Model
+Python ML,9.2,Data Science,Web Development,Amazon Intern,Dashboard
+Node JS,7.5,Data Science,Web Development,Amazon Intern,Dashboard
+Node JS,9.2,Web Development,AI Engineer,Amazon Intern,Chatbot
+Python ML,9.2,Cloud Engineer,Cloud Engineer,Google Intern,ML Model
+Python ML,8.2,AI Engineer,AI Engineer,Amazon Intern,Chatbot
+Python DL,6.2,Cloud Engineer,Cloud Engineer,Amazon Intern,ML Model
+Python ML,7.8,Cloud Engineer,AI Engineer,Google Intern,Web App
+Python ML,6.8,Cloud Engineer,Cloud Engineer,Amazon Intern,Dashboard
+HTML CSS,7.5,AI Engineer,Cloud Engineer,Amazon Intern,Dashboard
+Node JS,7.2,Web Development,AI Engineer,Amazon Intern,Chatbot
+HTML CSS,6.5,AI Engineer,Data Science,Microsoft Intern,Dashboard
+Python ML,7.2,AI Engineer,AI Engineer,Amazon Intern,Chatbot
+Python ML,9.0,Cloud Engineer,AI Engineer,Amazon Intern,Chatbot
+React JS,6.3,Data Science,Web Development,Microsoft Intern,ML Model
+Python DL,8.3,AI Engineer,Cloud Engineer,Google Intern,ML Model
+Python DL,8.3,Web Development,Web Development,Google Intern,Dashboard
+Python DL,8.4,Web Development,Web Development,Amazon Intern,Chatbot
+React JS,8.6,Cloud Engineer,AI Engineer,Microsoft Intern,Chatbot
+Python DL,9.0,Web Development,AI Engineer,Google Intern,Web App
+Python DL,6.8,Cloud Engineer,Web Development,Amazon Intern,ML Model
+Node JS,7.4,Web Development,Data Science,Amazon Intern,Web App
+Python DL,8.1,Data Science,Web Development,Google Intern,ML Model
+React JS,8.5,AI Engineer,AI Engineer,Amazon Intern,Dashboard
+Python DL,6.2,Cloud Engineer,Cloud Engineer,Google Intern,Web App
+Python DL,8.9,Cloud Engineer,Data Science,Google Intern,ML Model
+Python DL,6.2,Web Development,AI Engineer,Microsoft Intern,Dashboard
+Python ML,6.0,Web Development,Web Development,Amazon Intern,Web App
+Python ML,8.4,AI Engineer,Cloud Engineer,Google Intern,Web App
+Python DL,8.7,Cloud Engineer,AI Engineer,Microsoft Intern,ML Model
+HTML CSS,7.8,Web Development,AI Engineer,Amazon Intern,Web App
+HTML CSS,7.7,Cloud Engineer,Web Development,Microsoft Intern,Chatbot
+Python ML,8.0,Cloud Engineer,AI Engineer,Amazon Intern,Dashboard
+HTML CSS,6.2,AI Engineer,Web Development,Amazon Intern,Web App
+Python ML,9.2,Data Science,Cloud Engineer,Google Intern,Web App
+HTML CSS,8.3,Web Development,Cloud Engineer,Amazon Intern,Web App
+Python DL,6.2,Data Science,AI Engineer,Google Intern,Chatbot
+Node JS,7.8,Data Science,AI Engineer,Google Intern,Chatbot
+Python ML,6.2,AI Engineer,AI Engineer,Amazon Intern,Web App
+React JS,8.3,Web Development,Cloud Engineer,Microsoft Intern,ML Model
+React JS,7.5,Web Development,Data Science,Google Intern,ML Model
+React JS,8.2,AI Engineer,Web Development,Microsoft Intern,Dashboard
+Python ML,7.4,Web Development,Cloud Engineer,Google Intern,Web App
+React JS,6.2,Data Science,Data Science,Google Intern,Chatbot
+Python ML,9.5,Web Development,Web Development,Google Intern,Chatbot
+HTML CSS,9.4,Cloud Engineer,Cloud Engineer,Amazon Intern,Web App
+Python DL,7.8,Data Science,Web Development,Google Intern,Chatbot
+Node JS,9.1,Data Science,Web Development,Amazon Intern,ML Model
+Python DL,7.8,Cloud Engineer,AI Engineer,Amazon Intern,Dashboard
+Python DL,7.6,Web Development,Data Science,Google Intern,Web App
+Python ML,6.5,Web Development,AI Engineer,Google Intern,ML Model
+Python DL,6.3,Web Development,Data Science,Google Intern,ML Model
+React JS,7.4,Cloud Engineer,AI Engineer,Amazon Intern,ML Model
+Node JS,7.7,Web Development,AI Engineer,Microsoft Intern,ML Model
+HTML CSS,7.0,AI Engineer,AI Engineer,Microsoft Intern,Web App
+Python ML,9.0,AI Engineer,Web Development,Microsoft Intern,Chatbot
+Python ML,8.0,AI Engineer,AI Engineer,Amazon Intern,ML Model
+React JS,8.3,Cloud Engineer,Web Development,Amazon Intern,Web App
+React JS,8.3,Data Science,Cloud Engineer,Google Intern,Chatbot
+Python DL,6.6,Web Development,AI Engineer,Google Intern,Web App
+HTML CSS,7.2,AI Engineer,Data Science,Microsoft Intern,Dashboard
+HTML CSS,7.6,Cloud Engineer,Web Development,Google Intern,ML Model
+Python ML,8.1,Web Development,Data Science,Google Intern,Web App
+Python ML,7.3,Web Development,AI Engineer,Google Intern,ML Model
+Python ML,7.0,Web Development,Cloud Engineer,Google Intern,Chatbot
+Python DL,7.1,Cloud Engineer,Data Science,Microsoft Intern,Chatbot
+Python DL,6.3,Web Development,AI Engineer,Google Intern,ML Model
+React JS,6.9,AI Engineer,Cloud Engineer,Microsoft Intern,Dashboard
+Python DL,7.6,Web Development,Web Development,Microsoft Intern,Chatbot
+Python DL,6.5,AI Engineer,Cloud Engineer,Microsoft Intern,Web App
+Python ML,9.0,Cloud Engineer,Cloud Engineer,Google Intern,ML Model
+React JS,9.2,AI Engineer,Cloud Engineer,Amazon Intern,Dashboard
+React JS,7.9,Web Development,AI Engineer,Microsoft Intern,ML Model
+Python DL,9.2,AI Engineer,AI Engineer,Google Intern,Web App
+Python DL,7.8,Web Development,AI Engineer,Amazon Intern,Web App
+Python ML,9.5,Cloud Engineer,AI Engineer,Google Intern,ML Model
+HTML CSS,9.3,Cloud Engineer,AI Engineer,Google Intern,ML Model
+React JS,8.1,Cloud Engineer,Data Science,Google Intern,Web App
+React JS,7.4,AI Engineer,Data Science,Microsoft Intern,ML Model
+React JS,6.8,Web Development,Cloud Engineer,Google Intern,Dashboard
+React JS,8.3,AI Engineer,Web Development,Google Intern,Web App
+Python ML,7.8,Data Science,Web Development,Amazon Intern,Dashboard
+Node JS,7.5,Cloud Engineer,Cloud Engineer,Microsoft Intern,Chatbot
+React JS,6.0,Data Science,Cloud Engineer,Google Intern,ML Model
+Node JS,6.9,Web Development,Data Science,Google Intern,Dashboard
+HTML CSS,8.8,Cloud Engineer,Data Science,Microsoft Intern,Web App
+Python ML,6.9,Web Development,AI Engineer,Amazon Intern,Chatbot
+HTML CSS,6.8,Data Science,Data Science,Amazon Intern,ML Model
+Python ML,7.3,Web Development,AI Engineer,Microsoft Intern,Web App
+Python DL,8.4,Data Science,Data Science,Microsoft Intern,Dashboard
+Python DL,6.9,Data Science,Web Development,Amazon Intern,Dashboard
+HTML CSS,7.3,Data Science,Data Science,Amazon Intern,ML Model
+HTML CSS,6.8,Cloud Engineer,Cloud Engineer,Amazon Intern,Chatbot
+HTML CSS,7.7,Web Development,Cloud Engineer,Amazon Intern,Chatbot
+Node JS,7.2,Cloud Engineer,AI Engineer,Google Intern,Chatbot
+Python DL,7.8,Data Science,Web Development,Amazon Intern,Chatbot
+HTML CSS,8.4,Web Development,Cloud Engineer,Amazon Intern,Chatbot
+Python ML,8.4,Data Science,AI Engineer,Google Intern,ML Model
+Python ML,7.4,AI Engineer,AI Engineer,Microsoft Intern,ML Model
+Python ML,9.5,Data Science,Cloud Engineer,Google Intern,Dashboard
+HTML CSS,6.7,Web Development,Cloud Engineer,Microsoft Intern,Dashboard
+HTML CSS,7.2,Web Development,Data Science,Microsoft Intern,Web App
+Python DL,6.8,AI Engineer,Data Science,Microsoft Intern,Chatbot
+Python DL,7.4,Data Science,AI Engineer,Microsoft Intern,Chatbot
+Python DL,8.1,AI Engineer,Web Development,Google Intern,Dashboard
+React JS,6.6,Data Science,Web Development,Google Intern,Chatbot
+React JS,6.7,Cloud Engineer,Cloud Engineer,Google Intern,Web App
+Python DL,8.3,Web Development,AI Engineer,Amazon Intern,ML Model
+Node JS,8.0,Web Development,Web Development,Microsoft Intern,Dashboard
+Python ML,8.0,Data Science,Web Development,Microsoft Intern,ML Model
+React JS,7.0,Cloud Engineer,Cloud Engineer,Google Intern,Web App
+Python DL,8.0,Data Science,Web Development,Microsoft Intern,Chatbot
+Python DL,7.8,Data Science,Web Development,Microsoft Intern,Dashboard
+Python ML,7.0,Web Development,AI Engineer,Microsoft Intern,Chatbot
+Python ML,7.0,Cloud Engineer,Data Science,Amazon Intern,Dashboard
+Python DL,7.8,AI Engineer,Web Development,Amazon Intern,Dashboard
+Python DL,9.2,Web Development,Data Science,Amazon Intern,ML Model
+Python DL,7.1,Web Development,AI Engineer,Google Intern,Chatbot
+HTML CSS,6.7,Cloud Engineer,Data Science,Google Intern,Dashboard
+Node JS,6.0,AI Engineer,AI Engineer,Microsoft Intern,Dashboard
+Python DL,7.9,AI Engineer,AI Engineer,Google Intern,Chatbot
+Node JS,8.1,Data Science,AI Engineer,Google Intern,ML Model
+HTML CSS,7.7,Web Development,Cloud Engineer,Amazon Intern,Chatbot
+React JS,8.1,Web Development,Cloud Engineer,Microsoft Intern,Web App
+HTML CSS,8.5,Data Science,AI Engineer,Google Intern,ML Model
+Python ML,7.6,Data Science,Web Development,Microsoft Intern,Chatbot
+HTML CSS,7.3,AI Engineer,AI Engineer,Google Intern,Web App
+Node JS,6.0,Cloud Engineer,AI Engineer,Google Intern,Web App
+Node JS,8.2,Web Development,Cloud Engineer,Microsoft Intern,Dashboard
+HTML CSS,7.7,AI Engineer,AI Engineer,Amazon Intern,ML Model
+Python ML,6.2,Cloud Engineer,Web Development,Microsoft Intern,Chatbot
+HTML CSS,6.8,Data Science,Web Development,Google Intern,Chatbot
+HTML CSS,9.1,AI Engineer,AI Engineer,Amazon Intern,Dashboard
+Python DL,9.0,Data Science,AI Engineer,Microsoft Intern,Web App
+HTML CSS,8.5,Data Science,AI Engineer,Amazon Intern,Dashboard
+Python ML,6.7,Data Science,Data Science,Microsoft Intern,Web App
+React JS,6.2,Web Development,AI Engineer,Google Intern,Dashboard
+HTML CSS,6.7,Cloud Engineer,AI Engineer,Google Intern,ML Model
+Python DL,8.4,AI Engineer,AI Engineer,Microsoft Intern,Dashboard
+HTML CSS,7.2,Cloud Engineer,Web Development,Microsoft Intern,Dashboard
+HTML CSS,8.9,AI Engineer,Cloud Engineer,Microsoft Intern,ML Model
+React JS,9.0,AI Engineer,Cloud Engineer,Microsoft Intern,Dashboard
+Python DL,8.1,Data Science,AI Engineer,Google Intern,Chatbot
+Python DL,6.7,AI Engineer,Cloud Engineer,Microsoft Intern,ML Model
+React JS,9.0,Cloud Engineer,Web Development,Microsoft Intern,Web App
+Node JS,6.9,Web Development,AI Engineer,Amazon Intern,Web App
+Python DL,6.8,Data Science,Cloud Engineer,Amazon Intern,ML Model
+HTML CSS,8.6,Cloud Engineer,Cloud Engineer,Amazon Intern,ML Model
+React JS,8.0,Web Development,Cloud Engineer,Microsoft Intern,Chatbot
+Python DL,7.4,Data Science,Web Development,Google Intern,Web App
+Node JS,6.1,Web Development,Cloud Engineer,Amazon Intern,Chatbot
+Python ML,6.3,Data Science,Data Science,Google Intern,ML Model
+Node JS,6.1,AI Engineer,Data Science,Microsoft Intern,Web App
+HTML CSS,6.8,Cloud Engineer,Cloud Engineer,Google Intern,Chatbot
+Python DL,9.3,Web Development,Web Development,Google Intern,Chatbot
+React JS,6.7,AI Engineer,Web Development,Amazon Intern,ML Model
+Python ML,6.9,Web Development,AI Engineer,Amazon Intern,Web App
+Node JS,9.3,Web Development,Cloud Engineer,Google Intern,ML Model
+Node JS,6.7,Data Science,Cloud Engineer,Microsoft Intern,Web App
+HTML CSS,6.9,Cloud Engineer,Cloud Engineer,Microsoft Intern,Dashboard
+HTML CSS,7.5,Data Science,Cloud Engineer,Amazon Intern,Dashboard
+React JS,7.1,Data Science,Cloud Engineer,Amazon Intern,Chatbot
+React JS,6.9,Cloud Engineer,AI Engineer,Google Intern,Web App
+React JS,6.7,Cloud Engineer,Data Science,Amazon Intern,Dashboard
+HTML CSS,7.8,Data Science,Web Development,Google Intern,ML Model
+Python DL,7.8,Cloud Engineer,AI Engineer,Microsoft Intern,Chatbot
+Python ML,6.0,AI Engineer,AI Engineer,Amazon Intern,Chatbot
+React JS,6.5,Web Development,Cloud Engineer,Google Intern,Chatbot
+HTML CSS,8.0,AI Engineer,AI Engineer,Google Intern,ML Model
+Python ML,8.0,Web Development,AI Engineer,Microsoft Intern,Dashboard
+Python ML,8.9,Web Development,Cloud Engineer,Microsoft Intern,Dashboard
+Node JS,6.4,Data Science,Web Development,Google Intern,Chatbot
+Python DL,8.8,Cloud Engineer,Web Development,Amazon Intern,Chatbot
+HTML CSS,8.0,Web Development,Cloud Engineer,Microsoft Intern,Dashboard
+Python ML,8.9,Web Development,Web Development,Microsoft Intern,ML Model
+Python ML,6.3,AI Engineer,Data Science,Google Intern,Dashboard
+Python ML,6.9,Cloud Engineer,Web Development,Amazon Intern,Chatbot
+React JS,8.4,Cloud Engineer,Cloud Engineer,Amazon Intern,ML Model
+HTML CSS,7.6,Data Science,Data Science,Microsoft Intern,Web App
+React JS,6.6,Data Science,Data Science,Google Intern,Web App
+Python ML,7.5,Data Science,Cloud Engineer,Amazon Intern,Dashboard
+Node JS,9.1,AI Engineer,Web Development,Google Intern,Chatbot
+React JS,7.3,Cloud Engineer,Data Science,Google Intern,Dashboard
+HTML CSS,8.1,Cloud Engineer,Cloud Engineer,Google Intern,Chatbot
+Node JS,9.0,Cloud Engineer,Cloud Engineer,Amazon Intern,Web App
+Python ML,6.6,Data Science,Cloud Engineer,Microsoft Intern,Chatbot
+HTML CSS,6.3,Web Development,AI Engineer,Google Intern,Chatbot
+Python ML,8.1,AI Engineer,Cloud Engineer,Google Intern,Dashboard
+React JS,6.4,Cloud Engineer,AI Engineer,Google Intern,Web App
+React JS,8.6,Data Science,Data Science,Google Intern,ML Model
+Python ML,9.1,AI Engineer,Cloud Engineer,Amazon Intern,Chatbot
+Python DL,8.1,Web Development,Cloud Engineer,Microsoft Intern,ML Model
+Python DL,9.5,Data Science,Data Science,Google Intern,ML Model
+Python DL,6.7,Web Development,Data Science,Google Intern,Chatbot
+Python DL,7.1,Web Development,Cloud Engineer,Microsoft Intern,ML Model
+React JS,7.1,Web Development,Data Science,Microsoft Intern,Chatbot
+Python ML,7.2,Cloud Engineer,Data Science,Google Intern,Web App
+Python DL,7.4,AI Engineer,Cloud Engineer,Google Intern,Web App
+HTML CSS,9.4,AI Engineer,Cloud Engineer,Google Intern,Chatbot
+Node JS,8.0,AI Engineer,Web Development,Microsoft Intern,Web App
+Python DL,7.8,AI Engineer,Web Development,Amazon Intern,Chatbot
+Python ML,9.0,Cloud Engineer,AI Engineer,Microsoft Intern,Chatbot
+Python ML,8.9,Data Science,Cloud Engineer,Amazon Intern,Web App
+Node JS,9.1,Cloud Engineer,Web Development,Google Intern,Web App
+React JS,9.4,AI Engineer,Cloud Engineer,Google Intern,ML Model
+Node JS,9.0,AI Engineer,AI Engineer,Amazon Intern,ML Model
+Python DL,7.7,Cloud Engineer,Web Development,Microsoft Intern,Dashboard
+HTML CSS,9.2,Web Development,Web Development,Microsoft Intern,ML Model
+Node JS,8.5,AI Engineer,Cloud Engineer,Google Intern,Chatbot
+Python DL,8.9,Web Development,Cloud Engineer,Google Intern,Chatbot
+Node JS,7.0,AI Engineer,Data Science,Amazon Intern,Chatbot
+React JS,6.8,Data Science,Web Development,Microsoft Intern,ML Model
+Python DL,6.6,Data Science,Data Science,Microsoft Intern,ML Model
+Node JS,7.1,Data Science,Cloud Engineer,Google Intern,Chatbot
+React JS,6.0,Web Development,AI Engineer,Amazon Intern,Chatbot
+HTML CSS,6.9,Web Development,Cloud Engineer,Amazon Intern,Web App
+Python ML,8.0,Cloud Engineer,Cloud Engineer,Amazon Intern,ML Model
+Python ML,9.0,Web Development,Data Science,Amazon Intern,Chatbot
+Python ML,7.0,AI Engineer,Cloud Engineer,Microsoft Intern,ML Model
+HTML CSS,9.1,Cloud Engineer,Cloud Engineer,Amazon Intern,Dashboard
+React JS,8.3,Cloud Engineer,Web Development,Google Intern,ML Model
+React JS,6.2,Data Science,AI Engineer,Amazon Intern,Web App
+Python DL,8.7,Web Development,Web Development,Microsoft Intern,Chatbot
+Node JS,7.4,Cloud Engineer,AI Engineer,Microsoft Intern,Dashboard
+HTML CSS,7.3,Cloud Engineer,Data Science,Amazon Intern,Web App
+Node JS,6.7,Data Science,Web Development,Amazon Intern,Chatbot
+Python DL,9.4,Cloud Engineer,Web Development,Microsoft Intern,Dashboard
+Python DL,9.1,Data Science,Web Development,Google Intern,Web App
+Python DL,6.4,Data Science,AI Engineer,Microsoft Intern,Dashboard
+Python DL,6.8,Data Science,AI Engineer,Amazon Intern,Dashboard
+React JS,8.2,Data Science,AI Engineer,Microsoft Intern,Dashboard
+HTML CSS,9.5,Web Development,Data Science,Microsoft Intern,Web App
+Node JS,6.7,Web Development,AI Engineer,Amazon Intern,ML Model
+React JS,6.0,Cloud Engineer,Data Science,Microsoft Intern,Chatbot
+HTML CSS,7.6,Data Science,Web Development,Google Intern,Web App
+Node JS,9.2,Web Development,Web Development,Google Intern,Chatbot
+Node JS,9.3,Data Science,Data Science,Amazon Intern,ML Model
+Python DL,8.2,Data Science,Data Science,Google Intern,Dashboard
+React JS,6.9,Data Science,Data Science,Google Intern,ML Model
+Python DL,8.1,Web Development,Data Science,Microsoft Intern,ML Model
+Node JS,9.1,Cloud Engineer,Web Development,Amazon Intern,ML Model
+Python DL,9.1,AI Engineer,Cloud Engineer,Microsoft Intern,Chatbot
+React JS,8.2,AI Engineer,Cloud Engineer,Google Intern,Dashboard
+Python ML,8.5,Cloud Engineer,Cloud Engineer,Microsoft Intern,Chatbot
+HTML CSS,8.0,Web Development,AI Engineer,Microsoft Intern,ML Model
+Node JS,6.8,AI Engineer,Web Development,Google Intern,ML Model
+Python ML,6.7,AI Engineer,Web Development,Amazon Intern,Chatbot
+Node JS,6.5,Web Development,AI Engineer,Microsoft Intern,Dashboard
+HTML CSS,6.8,AI Engineer,Web Development,Microsoft Intern,ML Model
+HTML CSS,7.0,AI Engineer,Cloud Engineer,Google Intern,ML Model
+HTML CSS,8.8,AI Engineer,Data Science,Google Intern,Chatbot
+HTML CSS,9.5,Data Science,AI Engineer,Google Intern,Web App
+Python DL,9.2,Data Science,AI Engineer,Microsoft Intern,Dashboard
+Node JS,6.8,Web Development,Web Development,Microsoft Intern,Web App
+Python DL,6.6,Data Science,AI Engineer,Google Intern,Web App
+HTML CSS,6.2,Web Development,Data Science,Amazon Intern,ML Model
+Python ML,9.1,Cloud Engineer,Web Development,Amazon Intern,Chatbot
+Python ML,7.1,Data Science,Data Science,Amazon Intern,Chatbot
+React JS,9.4,Data Science,Cloud Engineer,Google Intern,Web App
+Python DL,8.7,Web Development,Data Science,Google Intern,Chatbot
+Node JS,7.6,Data Science,AI Engineer,Microsoft Intern,Dashboard
+Python DL,6.9,Cloud Engineer,Cloud Engineer,Google Intern,ML Model
+HTML CSS,7.7,AI Engineer,AI Engineer,Amazon Intern,Dashboard
+Node JS,7.5,Web Development,Data Science,Microsoft Intern,Web App
+Python ML,7.1,Cloud Engineer,Data Science,Microsoft Intern,Dashboard
+React JS,8.2,Web Development,Cloud Engineer,Amazon Intern,Chatbot
+HTML CSS,9.1,Web Development,Data Science,Microsoft Intern,Dashboard
+HTML CSS,6.3,Web Development,Web Development,Microsoft Intern,Dashboard
+Node JS,8.9,Data Science,AI Engineer,Microsoft Intern,ML Model
+Python DL,7.7,Cloud Engineer,Web Development,Google Intern,ML Model
+Python ML,8.7,Web Development,Web Development,Google Intern,ML Model
+HTML CSS,6.2,AI Engineer,AI Engineer,Google Intern,Chatbot
+React JS,8.9,Data Science,Web Development,Google Intern,Dashboard
+Node JS,7.4,Cloud Engineer,Cloud Engineer,Google Intern,Web App
+Node JS,7.3,Cloud Engineer,Web Development,Google Intern,Dashboard
+React JS,7.9,Data Science,AI Engineer,Microsoft Intern,Dashboard
+React JS,6.4,AI Engineer,Cloud Engineer,Google Intern,Web App
+React JS,7.8,Web Development,Web Development,Amazon Intern,Dashboard
+React JS,7.3,AI Engineer,AI Engineer,Amazon Intern,Web App
+React JS,8.6,AI Engineer,AI Engineer,Google Intern,Chatbot
+Python DL,7.0,Data Science,Data Science,Amazon Intern,Dashboard
+Python ML,8.1,Data Science,Cloud Engineer,Amazon Intern,ML Model
+React JS,6.4,Data Science,Web Development,Microsoft Intern,ML Model
+HTML CSS,9.5,Web Development,Data Science,Google Intern,Web App
+Python DL,6.9,Cloud Engineer,Data Science,Google Intern,Web App
+HTML CSS,8.9,Data Science,Web Development,Microsoft Intern,ML Model
+React JS,7.6,AI Engineer,Web Development,Microsoft Intern,Web App
+HTML CSS,7.0,AI Engineer,Data Science,Amazon Intern,Web App
+React JS,8.1,Web Development,AI Engineer,Google Intern,ML Model
+HTML CSS,8.7,Web Development,AI Engineer,Amazon Intern,Dashboard
+Python ML,6.1,Data Science,AI Engineer,Amazon Intern,ML Model
+Python ML,6.9,AI Engineer,Data Science,Microsoft Intern,Web App
+Node JS,6.6,AI Engineer,Cloud Engineer,Google Intern,Chatbot
+HTML CSS,8.9,Data Science,AI Engineer,Microsoft Intern,Web App
+React JS,7.4,Web Development,Data Science,Amazon Intern,Chatbot
+Python ML,6.5,Cloud Engineer,Cloud Engineer,Amazon Intern,ML Model
+HTML CSS,9.5,Web Development,Web Development,Microsoft Intern,ML Model
+Python ML,8.2,Data Science,Data Science,Google Intern,Chatbot
+Python DL,8.5,Cloud Engineer,Cloud Engineer,Microsoft Intern,Web App
+HTML CSS,8.2,AI Engineer,Web Development,Amazon Intern,Dashboard
+Python ML,6.4,AI Engineer,Data Science,Microsoft Intern,ML Model
+Node JS,6.9,Web Development,Data Science,Microsoft Intern,Dashboard
+Python DL,8.4,Data Science,Cloud Engineer,Google Intern,Dashboard
+HTML CSS,8.4,Web Development,AI Engineer,Amazon Intern,Chatbot
+HTML CSS,6.7,Data Science,AI Engineer,Microsoft Intern,Web App
+Python DL,8.1,AI Engineer,Cloud Engineer,Google Intern,ML Model
+React JS,8.3,AI Engineer,AI Engineer,Google Intern,Dashboard
+React JS,6.4,AI Engineer,Data Science,Microsoft Intern,ML Model
+Node JS,6.9,Cloud Engineer,Cloud Engineer,Microsoft Intern,Web App
+React JS,8.0,Data Science,Cloud Engineer,Microsoft Intern,Dashboard
+Python DL,8.5,Cloud Engineer,Cloud Engineer,Microsoft Intern,Chatbot
+Node JS,9.4,Web Development,Web Development,Amazon Intern,Web App
+React JS,6.6,AI Engineer,Web Development,Amazon Intern,ML Model
+Python ML,7.7,Data Science,Cloud Engineer,Microsoft Intern,Chatbot
+Node JS,9.4,AI Engineer,AI Engineer,Google Intern,Dashboard
+Python DL,8.5,Data Science,Data Science,Amazon Intern,Chatbot
+React JS,6.7,Data Science,Cloud Engineer,Microsoft Intern,Dashboard
+HTML CSS,6.4,AI Engineer,AI Engineer,Google Intern,ML Model
+Python ML,8.7,Web Development,Cloud Engineer,Microsoft Intern,Web App
+Node JS,8.1,AI Engineer,Cloud Engineer,Amazon Intern,Dashboard
+Python DL,6.2,Data Science,Web Development,Microsoft Intern,Dashboard
+HTML CSS,7.3,Cloud Engineer,Web Development,Microsoft Intern,Chatbot
+Node JS,6.8,Cloud Engineer,Data Science,Google Intern,Chatbot
+Python DL,9.4,Data Science,Web Development,Amazon Intern,Web App
+HTML CSS,7.3,Cloud Engineer,AI Engineer,Microsoft Intern,ML Model
+Python ML,6.1,AI Engineer,AI Engineer,Google Intern,ML Model
+Python ML,7.7,Cloud Engineer,Data Science,Google Intern,Chatbot
+Node JS,7.0,Web Development,Cloud Engineer,Google Intern,Dashboard
+Node JS,7.0,AI Engineer,Cloud Engineer,Amazon Intern,Web App
+Python DL,9.2,Data Science,AI Engineer,Amazon Intern,Chatbot
+React JS,7.2,Web Development,Data Science,Microsoft Intern,Web App
+Python ML,7.1,AI Engineer,Web Development,Amazon Intern,Dashboard
+Python ML,6.6,Cloud Engineer,Data Science,Amazon Intern,Dashboard
+Python ML,8.9,AI Engineer,Data Science,Amazon Intern,Web App
+HTML CSS,8.7,Cloud Engineer,Cloud Engineer,Google Intern,Chatbot
+Python DL,7.9,Data Science,Data Science,Google Intern,ML Model
+Python ML,8.6,Cloud Engineer,Data Science,Google Intern,Web App
+Node JS,9.0,Data Science,Data Science,Google Intern,ML Model
+Node JS,6.3,AI Engineer,Data Science,Google Intern,Dashboard
+Python DL,8.1,Web Development,Data Science,Amazon Intern,Web App
+HTML CSS,6.2,Data Science,Data Science,Microsoft Intern,ML Model
+React JS,9.3,Cloud Engineer,AI Engineer,Google Intern,Web App
+Node JS,7.5,Cloud Engineer,Data Science,Microsoft Intern,Web App
+Python DL,8.6,Cloud Engineer,AI Engineer,Amazon Intern,Web App
+Node JS,9.2,Cloud Engineer,Data Science,Amazon Intern,Web App
+Node JS,8.9,AI Engineer,Data Science,Microsoft Intern,Web App
+Node JS,7.9,Cloud Engineer,Web Development,Microsoft Intern,Chatbot
+Node JS,9.4,Web Development,Web Development,Microsoft Intern,Web App
+Python DL,7.0,Web Development,Web Development,Google Intern,Web App
+Python ML,7.9,Cloud Engineer,Web Development,Microsoft Intern,Web App
+React JS,7.8,Web Development,AI Engineer,Amazon Intern,Dashboard
+Python ML,6.9,Web Development,Data Science,Amazon Intern,Chatbot
+Python DL,7.0,Data Science,Data Science,Amazon Intern,Web App
+HTML CSS,6.7,Data Science,AI Engineer,Microsoft Intern,Web App
+Python ML,7.0,AI Engineer,AI Engineer,Amazon Intern,ML Model
+React JS,7.4,Cloud Engineer,Web Development,Google Intern,Chatbot
+Python DL,8.6,Web Development,Data Science,Amazon Intern,ML Model
+Node JS,7.5,Web Development,Data Science,Google Intern,Web App
+Python DL,6.3,Web Development,Data Science,Google Intern,Dashboard
+React JS,9.3,Web Development,Data Science,Microsoft Intern,Web App
+Python DL,7.0,AI Engineer,Web Development,Google Intern,Web App
+Node JS,7.3,Cloud Engineer,Web Development,Google Intern,Chatbot
+Node JS,6.4,Web Development,Web Development,Google Intern,Web App
+Node JS,8.0,Data Science,AI Engineer,Microsoft Intern,Web App
+HTML CSS,8.1,Web Development,Data Science,Amazon Intern,Web App
+React JS,6.6,AI Engineer,Data Science,Google Intern,Web App
+Node JS,9.5,Web Development,Data Science,Google Intern,ML Model
+HTML CSS,7.6,Web Development,Data Science,Amazon Intern,Web App
+Node JS,6.4,Data Science,AI Engineer,Google Intern,Dashboard
+Python ML,9.3,Cloud Engineer,AI Engineer,Amazon Intern,Dashboard
+HTML CSS,7.0,Data Science,Data Science,Google Intern,Chatbot
+Python DL,6.0,Data Science,Web Development,Amazon Intern,Web App
+React JS,9.5,Web Development,Cloud Engineer,Microsoft Intern,ML Model
+React JS,6.2,Web Development,AI Engineer,Google Intern,ML Model
+React JS,8.6,AI Engineer,Data Science,Microsoft Intern,ML Model
+Node JS,6.8,AI Engineer,Cloud Engineer,Google Intern,ML Model
+React JS,6.0,Data Science,Web Development,Google Intern,Chatbot
+Node JS,7.0,AI Engineer,Web Development,Google Intern,Chatbot
+Python ML,9.1,Cloud Engineer,Web Development,Microsoft Intern,Chatbot
+HTML CSS,7.0,Data Science,Data Science,Google Intern,ML Model
+Python DL,6.3,Web Development,AI Engineer,Microsoft Intern,Dashboard
+HTML CSS,6.7,Data Science,AI Engineer,Amazon Intern,Chatbot
+React JS,8.4,Cloud Engineer,Data Science,Amazon Intern,Web App
+React JS,6.2,Cloud Engineer,Web Development,Microsoft Intern,Dashboard
+React JS,6.9,Cloud Engineer,Data Science,Microsoft Intern,Dashboard
+React JS,9.0,AI Engineer,Data Science,Google Intern,Chatbot
+React JS,8.4,Cloud Engineer,Data Science,Google Intern,Chatbot
+Python ML,7.8,Cloud Engineer,AI Engineer,Amazon Intern,Chatbot
+HTML CSS,6.1,Cloud Engineer,Web Development,Amazon Intern,Dashboard
+React JS,8.4,Data Science,AI Engineer,Amazon Intern,Chatbot
+React JS,9.5,Data Science,Web Development,Google Intern,Chatbot
+Python DL,7.8,Cloud Engineer,Web Development,Amazon Intern,Web App
+React JS,7.1,Web Development,AI Engineer,Google Intern,Chatbot
+Python ML,8.1,AI Engineer,AI Engineer,Google Intern,ML Model
+Python ML,8.0,Cloud Engineer,Web Development,Google Intern,Web App
+HTML CSS,9.4,Cloud Engineer,Web Development,Microsoft Intern,Dashboard
+Python DL,6.5,Cloud Engineer,Data Science,Amazon Intern,Dashboard
+React JS,7.5,Data Science,Data Science,Microsoft Intern,ML Model
+Python DL,6.0,AI Engineer,AI Engineer,Amazon Intern,ML Model
+Node JS,8.7,Data Science,Cloud Engineer,Google Intern,Dashboard
+HTML CSS,6.8,Web Development,Cloud Engineer,Amazon Intern,Dashboard
+Node JS,9.4,AI Engineer,Data Science,Amazon Intern,ML Model
+React JS,8.7,Data Science,Data Science,Microsoft Intern,ML Model
+HTML CSS,7.0,Data Science,Web Development,Microsoft Intern,Dashboard
+Node JS,6.1,Data Science,Cloud Engineer,Amazon Intern,Dashboard
+HTML CSS,8.6,Data Science,Web Development,Google Intern,ML Model
+React JS,7.6,Cloud Engineer,AI Engineer,Amazon Intern,Dashboard
+Python ML,6.4,Data Science,AI Engineer,Google Intern,Web App
+HTML CSS,9.3,Data Science,Data Science,Amazon Intern,ML Model
+React JS,8.2,Web Development,Data Science,Google Intern,Chatbot
+Python DL,6.2,Data Science,Cloud Engineer,Amazon Intern,ML Model
+Python ML,7.8,Web Development,AI Engineer,Amazon Intern,Dashboard
+React JS,8.2,Web Development,Web Development,Microsoft Intern,Dashboard
+Python ML,8.1,Web Development,AI Engineer,Amazon Intern,Chatbot
+HTML CSS,7.7,Data Science,AI Engineer,Google Intern,Web App
+Python DL,8.8,Data Science,Data Science,Google Intern,Chatbot
+React JS,7.8,Cloud Engineer,Cloud Engineer,Google Intern,Chatbot
+Node JS,9.4,Web Development,Web Development,Microsoft Intern,ML Model
+HTML CSS,6.9,Data Science,AI Engineer,Google Intern,ML Model
+React JS,6.7,Web Development,Data Science,Microsoft Intern,ML Model
+HTML CSS,6.7,Cloud Engineer,Data Science,Amazon Intern,Web App
+Python ML,6.2,Cloud Engineer,Web Development,Google Intern,Chatbot
+Python ML,7.1,Cloud Engineer,AI Engineer,Microsoft Intern,ML Model
+HTML CSS,8.6,Cloud Engineer,Web Development,Amazon Intern,Dashboard
+React JS,7.7,AI Engineer,Web Development,Microsoft Intern,ML Model
+Node JS,6.3,Cloud Engineer,Cloud Engineer,Microsoft Intern,Web App
+HTML CSS,7.3,Cloud Engineer,Cloud Engineer,Google Intern,ML Model
+Node JS,6.4,Data Science,Web Development,Microsoft Intern,Chatbot
+HTML CSS,7.1,Data Science,Web Development,Amazon Intern,ML Model
+HTML CSS,6.8,AI Engineer,Data Science,Google Intern,Web App
+HTML CSS,7.1,Web Development,Cloud Engineer,Amazon Intern,Dashboard
+HTML CSS,8.0,AI Engineer,AI Engineer,Google Intern,Chatbot
+Node JS,6.0,Cloud Engineer,Web Development,Microsoft Intern,Chatbot
+Python DL,8.0,AI Engineer,Data Science,Google Intern,Chatbot
+HTML CSS,8.4,AI Engineer,Data Science,Microsoft Intern,Web App
+HTML CSS,7.8,Web Development,Cloud Engineer,Google Intern,Chatbot
+Python DL,8.7,Data Science,Web Development,Amazon Intern,Web App
+Python DL,8.1,Cloud Engineer,Data Science,Google Intern,ML Model
+Python ML,9.1,Data Science,AI Engineer,Amazon Intern,Dashboard
+Node JS,8.4,Data Science,AI Engineer,Amazon Intern,Dashboard
+Python ML,7.6,Data Science,Web Development,Microsoft Intern,Chatbot
+Python DL,9.1,Data Science,Cloud Engineer,Amazon Intern,Dashboard
+React JS,6.4,Cloud Engineer,Web Development,Amazon Intern,Chatbot
+HTML CSS,7.6,Web Development,AI Engineer,Amazon Intern,Chatbot
+Python ML,7.4,AI Engineer,Data Science,Google Intern,Chatbot
+Python ML,7.1,AI Engineer,Data Science,Google Intern,Web App
+React JS,6.7,Cloud Engineer,AI Engineer,Microsoft Intern,ML Model
+React JS,7.9,AI Engineer,Cloud Engineer,Amazon Intern,Web App
+React JS,9.4,Cloud Engineer,Cloud Engineer,Microsoft Intern,Web App
+Node JS,7.0,Data Science,Data Science,Microsoft Intern,Web App
+HTML CSS,9.2,Data Science,AI Engineer,Microsoft Intern,ML Model
+React JS,8.1,Data Science,Cloud Engineer,Amazon Intern,Web App
+Python DL,8.8,Cloud Engineer,AI Engineer,Amazon Intern,ML Model
+HTML CSS,6.4,Data Science,Web Development,Google Intern,Dashboard
+HTML CSS,6.0,Web Development,AI Engineer,Microsoft Intern,ML Model
+HTML CSS,8.9,Web Development,Cloud Engineer,Amazon Intern,Dashboard
+HTML CSS,6.1,Web Development,Cloud Engineer,Amazon Intern,Chatbot
+React JS,8.4,Web Development,Cloud Engineer,Microsoft Intern,Chatbot
+Python DL,7.2,Web Development,Data Science,Microsoft Intern,Chatbot
+HTML CSS,8.8,Cloud Engineer,Cloud Engineer,Google Intern,ML Model
+Python DL,9.5,Cloud Engineer,Web Development,Amazon Intern,Chatbot
+React JS,8.0,Web Development,Data Science,Google Intern,Chatbot
+Python ML,6.2,Web Development,Cloud Engineer,Google Intern,Dashboard
+React JS,9.2,Web Development,Cloud Engineer,Amazon Intern,ML Model
+Python ML,6.4,AI Engineer,AI Engineer,Google Intern,Dashboard
+Python ML,8.9,Web Development,Web Development,Google Intern,Web App
+HTML CSS,7.3,Web Development,Web Development,Amazon Intern,Web App
+Python ML,8.6,Data Science,Data Science,Amazon Intern,ML Model
+HTML CSS,6.1,Cloud Engineer,Web Development,Amazon Intern,ML Model
+Python ML,6.2,Cloud Engineer,AI Engineer,Microsoft Intern,ML Model
+Node JS,9.4,Data Science,Cloud Engineer,Google Intern,Chatbot
+Node JS,9.2,Data Science,Data Science,Google Intern,ML Model
+HTML CSS,7.1,AI Engineer,Cloud Engineer,Google Intern,Web App
+Node JS,6.9,Web Development,Web Development,Google Intern,Web App
+Node JS,8.4,Data Science,Data Science,Microsoft Intern,ML Model
+Python DL,7.9,Data Science,AI Engineer,Microsoft Intern,Web App
+React JS,6.9,Cloud Engineer,AI Engineer,Google Intern,Web App
+React JS,9.1,Data Science,Web Development,Microsoft Intern,Web App
+HTML CSS,6.6,Cloud Engineer,AI Engineer,Google Intern,Dashboard
+Python ML,6.3,Web Development,Cloud Engineer,Google Intern,Dashboard
+Python ML,6.5,Cloud Engineer,Data Science,Microsoft Intern,Chatbot
+HTML CSS,8.4,AI Engineer,Web Development,Microsoft Intern,Web App
+HTML CSS,6.6,AI Engineer,Data Science,Microsoft Intern,Chatbot
+Node JS,7.5,Data Science,Web Development,Google Intern,Web App
+HTML CSS,7.3,Web Development,Web Development,Google Intern,Dashboard
+Node JS,6.6,Data Science,AI Engineer,Google Intern,Web App
+Python DL,8.0,AI Engineer,Data Science,Amazon Intern,Chatbot
+Python ML,6.6,Data Science,Data Science,Google Intern,Dashboard
+HTML CSS,7.5,AI Engineer,Web Development,Microsoft Intern,ML Model
+HTML CSS,7.3,AI Engineer,Cloud Engineer,Microsoft Intern,ML Model
+Node JS,8.2,Data Science,Data Science,Amazon Intern,Web App
+React JS,8.7,Web Development,Cloud Engineer,Amazon Intern,Web App
+Python DL,8.3,AI Engineer,AI Engineer,Google Intern,Chatbot
+Python DL,8.0,Web Development,Web Development,Microsoft Intern,ML Model
+Python DL,9.3,Data Science,Web Development,Microsoft Intern,Chatbot
+React JS,6.0,AI Engineer,Cloud Engineer,Amazon Intern,Dashboard
+Node JS,7.2,AI Engineer,AI Engineer,Google Intern,Chatbot
+Python ML,6.7,Cloud Engineer,AI Engineer,Google Intern,Dashboard
+React JS,8.7,Cloud Engineer,Web Development,Amazon Intern,Dashboard
+React JS,8.4,AI Engineer,Data Science,Google Intern,ML Model
+Python DL,8.8,Cloud Engineer,Cloud Engineer,Microsoft Intern,ML Model
+HTML CSS,9.0,Data Science,Data Science,Amazon Intern,Dashboard
+HTML CSS,8.1,Web Development,Web Development,Microsoft Intern,Web App
+React JS,8.3,Data Science,Web Development,Google Intern,Chatbot
+Python DL,8.4,Data Science,Web Development,Google Intern,Web App
+Node JS,8.1,Web Development,Cloud Engineer,Amazon Intern,ML Model
+HTML CSS,8.7,Web Development,Cloud Engineer,Amazon Intern,Chatbot
+Python ML,8.3,Data Science,Web Development,Amazon Intern,Web App
+HTML CSS,8.0,Web Development,Web Development,Amazon Intern,Dashboard
+Python DL,9.4,Data Science,Web Development,Amazon Intern,Web App
+Node JS,6.8,Data Science,AI Engineer,Google Intern,Dashboard
+Python ML,9.2,AI Engineer,AI Engineer,Google Intern,Chatbot
+Python DL,9.3,Cloud Engineer,Web Development,Amazon Intern,Chatbot
+HTML CSS,8.7,Cloud Engineer,Cloud Engineer,Microsoft Intern,Chatbot
+Python DL,6.1,AI Engineer,Data Science,Amazon Intern,Chatbot
+Python DL,9.3,Web Development,Cloud Engineer,Microsoft Intern,ML Model
+Python ML,9.4,Cloud Engineer,Cloud Engineer,Amazon Intern,ML Model
+Python DL,9.4,AI Engineer,Cloud Engineer,Amazon Intern,Dashboard
+Python DL,6.1,AI Engineer,Cloud Engineer,Google Intern,ML Model
+Python DL,7.6,Cloud Engineer,AI Engineer,Google Intern,Chatbot
+React JS,7.4,Cloud Engineer,Cloud Engineer,Microsoft Intern,Web App
+Python ML,7.8,AI Engineer,Web Development,Amazon Intern,ML Model
+HTML CSS,9.1,AI Engineer,AI Engineer,Google Intern,Chatbot
+Python ML,7.5,Web Development,Web Development,Amazon Intern,Web App
+Python ML,7.6,Data Science,AI Engineer,Google Intern,Chatbot
+Python ML,8.4,Web Development,Web Development,Microsoft Intern,ML Model
+HTML CSS,8.2,Cloud Engineer,Cloud Engineer,Microsoft Intern,Chatbot
+Python DL,7.3,Cloud Engineer,Web Development,Google Intern,Chatbot
+Node JS,9.5,Web Development,Web Development,Google Intern,Chatbot
+Python DL,6.5,AI Engineer,Data Science,Google Intern,Dashboard
+React JS,8.8,AI Engineer,Web Development,Amazon Intern,ML Model
+React JS,6.9,AI Engineer,Web Development,Amazon Intern,Chatbot
+HTML CSS,8.3,Data Science,Data Science,Microsoft Intern,Chatbot
+React JS,6.1,Web Development,Cloud Engineer,Microsoft Intern,ML Model
+Python DL,8.7,Data Science,AI Engineer,Google Intern,Chatbot
+Python ML,7.0,AI Engineer,Cloud Engineer,Google Intern,Web App
+Python DL,9.0,Data Science,AI Engineer,Google Intern,Web App
+Node JS,8.0,Web Development,AI Engineer,Microsoft Intern,ML Model
+Node JS,8.8,Web Development,Data Science,Google Intern,ML Model
+Node JS,9.3,AI Engineer,Web Development,Amazon Intern,ML Model
+HTML CSS,9.3,Web Development,Data Science,Google Intern,Web App
+React JS,7.5,Web Development,AI Engineer,Google Intern,Chatbot
+HTML CSS,8.4,Web Development,AI Engineer,Amazon Intern,Dashboard
+Python ML,7.4,AI Engineer,AI Engineer,Microsoft Intern,ML Model
+React JS,9.1,Data Science,Data Science,Amazon Intern,Web App
+React JS,8.2,AI Engineer,AI Engineer,Microsoft Intern,Chatbot
+Python DL,8.1,Cloud Engineer,Data Science,Google Intern,Web App
+HTML CSS,9.2,Data Science,Data Science,Amazon Intern,Web App
+Python DL,6.9,Cloud Engineer,Cloud Engineer,Google Intern,Web App
+HTML CSS,6.4,Web Development,Data Science,Microsoft Intern,ML Model
+Node JS,8.8,AI Engineer,Web Development,Google Intern,Dashboard
+Python ML,9.5,AI Engineer,Data Science,Amazon Intern,Web App
+Python ML,6.7,Web Development,Data Science,Google Intern,Web App
+Python DL,7.6,AI Engineer,Cloud Engineer,Microsoft Intern,ML Model
+Python ML,8.9,AI Engineer,Cloud Engineer,Google Intern,ML Model
+Python DL,9.1,Cloud Engineer,Data Science,Amazon Intern,Chatbot
+React JS,7.1,Data Science,Data Science,Amazon Intern,Chatbot
+HTML CSS,6.1,Web Development,Data Science,Microsoft Intern,Dashboard
+Python ML,9.0,AI Engineer,Data Science,Google Intern,Dashboard
+HTML CSS,9.2,Web Development,Cloud Engineer,Amazon Intern,ML Model
+Python DL,6.8,Cloud Engineer,AI Engineer,Google Intern,Dashboard
+React JS,6.8,AI Engineer,Data Science,Amazon Intern,Dashboard
+Python DL,6.7,Cloud Engineer,Web Development,Google Intern,ML Model
+Python ML,8.1,AI Engineer,Web Development,Amazon Intern,Web App
+React JS,7.6,AI Engineer,AI Engineer,Amazon Intern,Chatbot
+HTML CSS,9.2,Cloud Engineer,Web Development,Google Intern,Web App
+HTML CSS,9.0,Cloud Engineer,AI Engineer,Amazon Intern,Chatbot
+Python ML,6.7,Cloud Engineer,AI Engineer,Google Intern,Web App
+React JS,7.9,Web Development,Data Science,Google Intern,Web App
+Python DL,8.6,Cloud Engineer,Data Science,Amazon Intern,Dashboard
+HTML CSS,6.7,Data Science,Data Science,Google Intern,Chatbot
+Node JS,6.6,AI Engineer,Data Science,Amazon Intern,Dashboard
+React JS,8.6,AI Engineer,Web Development,Google Intern,Dashboard
+Python DL,7.6,Web Development,Web Development,Amazon Intern,ML Model
+React JS,6.9,Data Science,Web Development,Amazon Intern,Dashboard
+HTML CSS,7.1,Web Development,Data Science,Google Intern,Web App
+Python ML,8.0,Cloud Engineer,Web Development,Google Intern,Dashboard
+Node JS,7.4,Web Development,AI Engineer,Amazon Intern,Web App
+HTML CSS,7.2,Cloud Engineer,Data Science,Google Intern,Web App
+Python DL,8.2,AI Engineer,Cloud Engineer,Microsoft Intern,Web App
+HTML CSS,8.2,Cloud Engineer,AI Engineer,Amazon Intern,ML Model
+Python ML,9.1,AI Engineer,Web Development,Google Intern,Web App
+Node JS,8.3,Cloud Engineer,Cloud Engineer,Microsoft Intern,Dashboard
+HTML CSS,6.8,AI Engineer,AI Engineer,Google Intern,ML Model
+Node JS,7.3,Data Science,Cloud Engineer,Google Intern,Dashboard
+Python ML,7.7,Web Development,Data Science,Microsoft Intern,Web App
+React JS,8.0,Cloud Engineer,Web Development,Google Intern,ML Model
+HTML CSS,6.2,AI Engineer,Web Development,Amazon Intern,Web App
+Python ML,6.7,Data Science,Cloud Engineer,Google Intern,ML Model
+Python ML,8.9,Cloud Engineer,Web Development,Microsoft Intern,Web App
+HTML CSS,6.3,Cloud Engineer,Web Development,Amazon Intern,Dashboard
+HTML CSS,8.0,AI Engineer,Cloud Engineer,Microsoft Intern,ML Model
+React JS,7.9,AI Engineer,Cloud Engineer,Amazon Intern,Web App
+React JS,7.0,Data Science,AI Engineer,Microsoft Intern,ML Model
+Node JS,7.4,Cloud Engineer,Web Development,Microsoft Intern,Web App
+HTML CSS,6.7,Web Development,AI Engineer,Amazon Intern,ML Model
+Python ML,9.1,Cloud Engineer,AI Engineer,Google Intern,ML Model
+Python ML,7.4,Data Science,Web Development,Microsoft Intern,Chatbot
+HTML CSS,8.3,Data Science,AI Engineer,Amazon Intern,Chatbot
+Node JS,6.3,Web Development,Web Development,Microsoft Intern,Chatbot
+React JS,6.9,AI Engineer,Data Science,Google Intern,Dashboard
+Python ML,8.4,Web Development,Cloud Engineer,Amazon Intern,Chatbot
+Python DL,6.4,Data Science,Web Development,Google Intern,Dashboard
+Python ML,8.1,Cloud Engineer,Cloud Engineer,Google Intern,ML Model
+React JS,6.2,Cloud Engineer,Cloud Engineer,Google Intern,ML Model
+Python ML,7.4,AI Engineer,Cloud Engineer,Amazon Intern,ML Model
+Node JS,7.7,AI Engineer,Data Science,Google Intern,Chatbot
+Node JS,7.7,AI Engineer,Cloud Engineer,Amazon Intern,Web App
+HTML CSS,6.1,AI Engineer,AI Engineer,Amazon Intern,Web App
+React JS,7.3,AI Engineer,Web Development,Microsoft Intern,ML Model
+React JS,7.8,Cloud Engineer,AI Engineer,Google Intern,Web App
+Python DL,8.4,Web Development,AI Engineer,Amazon Intern,Chatbot
+Python ML,7.0,Web Development,Data Science,Amazon Intern,Dashboard
+Python DL,7.1,Data Science,Cloud Engineer,Amazon Intern,Web App
+React JS,8.4,Data Science,Web Development,Google Intern,Web App
+HTML CSS,7.1,Web Development,Data Science,Microsoft Intern,Dashboard
+Python DL,9.0,Web Development,Data Science,Google Intern,ML Model
+Python DL,8.4,Cloud Engineer,Cloud Engineer,Amazon Intern,Chatbot
+Node JS,6.1,Cloud Engineer,Cloud Engineer,Google Intern,Dashboard
+Python DL,6.4,Data Science,AI Engineer,Google Intern,Chatbot
+HTML CSS,7.9,Cloud Engineer,AI Engineer,Microsoft Intern,Chatbot
+Python ML,6.4,Web Development,AI Engineer,Microsoft Intern,ML Model
+HTML CSS,8.5,Data Science,Web Development,Amazon Intern,Web App
+HTML CSS,6.1,AI Engineer,Data Science,Microsoft Intern,ML Model
+Python DL,8.2,AI Engineer,AI Engineer,Google Intern,Web App
+React JS,7.2,Web Development,Cloud Engineer,Google Intern,Chatbot
+HTML CSS,6.8,Web Development,Web Development,Google Intern,Chatbot
+Node JS,8.5,Cloud Engineer,Data Science,Microsoft Intern,Dashboard
+Python DL,6.6,AI Engineer,AI Engineer,Amazon Intern,ML Model
+Python ML,7.4,Web Development,Web Development,Microsoft Intern,Chatbot
+Node JS,8.2,Web Development,Cloud Engineer,Amazon Intern,Dashboard
+Python ML,6.1,Data Science,AI Engineer,Google Intern,ML Model
+Node JS,7.0,Cloud Engineer,Web Development,Amazon Intern,Dashboard
+Node JS,8.9,Cloud Engineer,AI Engineer,Amazon Intern,ML Model
+Python DL,7.3,Data Science,AI Engineer,Amazon Intern,Dashboard
+Python DL,8.9,Data Science,AI Engineer,Amazon Intern,Dashboard
+Python ML,6.2,Web Development,AI Engineer,Microsoft Intern,Chatbot
+React JS,7.6,Data Science,Cloud Engineer,Microsoft Intern,Web App
+HTML CSS,7.6,Cloud Engineer,Web Development,Amazon Intern,Web App
+HTML CSS,8.3,Cloud Engineer,AI Engineer,Microsoft Intern,Web App
+Python ML,9.4,AI Engineer,Web Development,Amazon Intern,Chatbot
+Python DL,7.9,Web Development,Data Science,Microsoft Intern,Dashboard
+HTML CSS,6.6,AI Engineer,Web Development,Google Intern,Chatbot
+Python DL,9.2,Data Science,AI Engineer,Amazon Intern,Chatbot
+HTML CSS,7.2,AI Engineer,Cloud Engineer,Microsoft Intern,Chatbot
+HTML CSS,9.2,Cloud Engineer,AI Engineer,Google Intern,Chatbot
+HTML CSS,9.0,Data Science,Web Development,Amazon Intern,Web App
+HTML CSS,6.7,Cloud Engineer,Data Science,Microsoft Intern,ML Model
+Node JS,9.1,AI Engineer,Web Development,Amazon Intern,Chatbot
+React JS,8.3,AI Engineer,Cloud Engineer,Google Intern,Dashboard
+Node JS,6.4,Data Science,AI Engineer,Microsoft Intern,Dashboard
+Python DL,8.3,Web Development,AI Engineer,Google Intern,Dashboard
+Node JS,7.4,Data Science,Data Science,Amazon Intern,Chatbot
+HTML CSS,9.3,Cloud Engineer,Cloud Engineer,Microsoft Intern,Web App
+HTML CSS,8.7,AI Engineer,Cloud Engineer,Microsoft Intern,Dashboard
+HTML CSS,7.9,Data Science,Cloud Engineer,Google Intern,Dashboard
+React JS,7.1,Cloud Engineer,Web Development,Microsoft Intern,Web App
+HTML CSS,8.3,Data Science,AI Engineer,Google Intern,Dashboard
+HTML CSS,7.9,Web Development,AI Engineer,Microsoft Intern,ML Model
+Node JS,7.6,Data Science,Data Science,Google Intern,Chatbot
+Node JS,8.9,Data Science,Web Development,Microsoft Intern,Dashboard
+Python DL,6.6,Web Development,AI Engineer,Microsoft Intern,Chatbot
+HTML CSS,7.1,Data Science,Data Science,Google Intern,Web App
+Python DL,6.9,AI Engineer,Web Development,Amazon Intern,ML Model
+Python ML,9.2,Web Development,Data Science,Microsoft Intern,ML Model
+HTML CSS,6.5,Cloud Engineer,Data Science,Amazon Intern,ML Model
+HTML CSS,8.3,Data Science,Web Development,Amazon Intern,Web App
+Python DL,6.2,Web Development,Web Development,Amazon Intern,Dashboard
+Node JS,8.3,Cloud Engineer,Data Science,Google Intern,Dashboard
+Python DL,9.5,Cloud Engineer,Cloud Engineer,Amazon Intern,Dashboard
+Python ML,8.8,Cloud Engineer,AI Engineer,Amazon Intern,Web App
+Node JS,8.1,Data Science,Data Science,Google Intern,Dashboard
+Python DL,7.6,Cloud Engineer,AI Engineer,Amazon Intern,Web App
+Node JS,8.0,Cloud Engineer,Data Science,Amazon Intern,Web App
+Python ML,6.3,Cloud Engineer,Cloud Engineer,Microsoft Intern,Chatbot
+Python DL,8.7,Cloud Engineer,AI Engineer,Google Intern,ML Model
+HTML CSS,9.2,Web Development,Cloud Engineer,Amazon Intern,Web App
+Node JS,8.0,Data Science,Data Science,Amazon Intern,ML Model
+Python DL,6.3,AI Engineer,Cloud Engineer,Google Intern,Web App
+Node JS,8.7,Cloud Engineer,AI Engineer,Amazon Intern,Web App
+React JS,8.5,Web Development,AI Engineer,Microsoft Intern,Web App
+Python DL,7.3,Cloud Engineer,AI Engineer,Microsoft Intern,Dashboard
+Node JS,9.1,Data Science,Cloud Engineer,Amazon Intern,Chatbot
+Python ML,6.6,Data Science,Cloud Engineer,Amazon Intern,Web App
+React JS,7.2,Web Development,Web Development,Google Intern,Chatbot
+HTML CSS,8.7,AI Engineer,Cloud Engineer,Google Intern,ML Model
+React JS,7.6,Data Science,Data Science,Amazon Intern,Dashboard
+React JS,7.1,Data Science,AI Engineer,Microsoft Intern,ML Model
+React JS,7.9,Data Science,Cloud Engineer,Google Intern,Dashboard
+React JS,7.9,Data Science,AI Engineer,Microsoft Intern,Web App
+HTML CSS,6.6,Data Science,Data Science,Amazon Intern,ML Model
+Python DL,7.0,AI Engineer,Web Development,Google Intern,ML Model
+HTML CSS,8.7,AI Engineer,Data Science,Microsoft Intern,Dashboard
+Python DL,9.4,Web Development,Data Science,Google Intern,Dashboard
+Python ML,9.5,AI Engineer,Web Development,Microsoft Intern,Dashboard
+Node JS,8.2,Web Development,AI Engineer,Google Intern,ML Model
+React JS,9.5,AI Engineer,Cloud Engineer,Amazon Intern,Dashboard
+HTML CSS,8.8,Web Development,Web Development,Amazon Intern,Chatbot
+HTML CSS,7.5,AI Engineer,Data Science,Amazon Intern,ML Model
+Node JS,6.1,AI Engineer,Cloud Engineer,Microsoft Intern,ML Model
+HTML CSS,9.0,Web Development,Web Development,Amazon Intern,Dashboard
+Python DL,6.9,Data Science,Cloud Engineer,Microsoft Intern,Chatbot
+Python ML,8.6,Data Science,Data Science,Google Intern,Dashboard
+Node JS,6.2,Web Development,AI Engineer,Amazon Intern,Dashboard
